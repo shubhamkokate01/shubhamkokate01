@@ -7,7 +7,7 @@
 
 Building practical AI projects and learning by creating real-world solutions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=shubhamkokate01&color=blueviolet&style=flat-square)
 
 </div>
 
