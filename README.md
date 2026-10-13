@@ -61,7 +61,7 @@ Building practical AI projects and learning by creating real-world solutions.
   <a href="https://github.com/shubhamkokate01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/shubham-kokate-1b2b302a2">
+  <a href="https://www.linkedin.com/in/shubham-kokate-1b2b302a2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
