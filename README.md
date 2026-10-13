@@ -26,10 +26,10 @@ Building practical AI projects and learning by creating real-world solutions.
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,django,mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,mysql,mongodb,git,github,vscode" />
 </p>
 
-**AI / ML:** Machine Learning, Scikit-learn, Pandas, NumPy, Generative AI
+**AI / ML:** Machine Learning, Pandas, NumPy, Generative AI
 
 **Currently Learning:** LLMs, RAG, AI Agents, LangChain, LangGraph
 
@@ -58,10 +58,10 @@ Building practical AI projects and learning by creating real-world solutions.
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/shubhamkokate01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/shubham-kokate-1b2b302a2">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
